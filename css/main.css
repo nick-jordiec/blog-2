@@ -1,6 +1,6 @@
 @font-face{
   font-family: 'Roboto Mono';
-  src: url('C:/Users/Usuario/Desktop/blog-2/css/fonts/Roboto_Mono/RobotoMono-Regular.ttf') format('truetype');
+  src: url('/css/fonts/Roboto_Mono/RobotoMono-Regular.ttf') format('truetype');
 }
 body{
   font-family: 'Roboto Mono', monospace;
